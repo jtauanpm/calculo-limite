@@ -12,4 +12,4 @@ E por fim é gerado o gráfico da função
 É possível fazer a instalação digitando o seguinte na linha de comando:
 `pip install sympy`
 
-#### As questões foram tiradas do livro : *Problemas e Exercícios de Análise Matemática* de B. Demidovitch
+As questões foram tiradas do livro : *Problemas e Exercícios de Análise Matemática* de B. Demidovitch
