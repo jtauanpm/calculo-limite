@@ -1,4 +1,4 @@
-#(QUESTÃO 195) | lim f = (x**3 - 3*x + 2)/(x**4 - 4*x + 3) 
+# (QUESTÃO 195) | lim f = (x**3 - 3*x + 2)/(x**4 - 4*x + 3) 
 #                   x->1
 
 print("\n\n>>>>>>>>>>>> Usando vetores <<<<<<<<<<<<\n")
